@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatyFrancesA
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
