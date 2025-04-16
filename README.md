@@ -6,11 +6,6 @@
 📚 Currently Learning: Python, Networking, Pentesting  
 🌐 Exploring: Threat Modeling, Packet Analysis, Vulnerability Scanning
 
-
-📧 katyfrances@gmail.com 
-🔗 https://yourgithubusername.github.io/intro/  
-💼 linkedin.com/in/katyfrancesa
-
 <!---
 KatyFrancesA/KatyFrancesA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
