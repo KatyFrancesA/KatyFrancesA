@@ -1,8 +1,5 @@
 ![Header](githubBanner.png)
-
-# 👋 Hi, I'm Katy!
-
-💻 Aspiring Security Analyst | Passionate About Privacy  
+💻 Passionate about security and privacy                                                          
 📚 Currently Learning: Python, Networking, Pentesting  
 🌐 Exploring: Threat Modeling, Packet Analysis, Vulnerability Scanning
 
