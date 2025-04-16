@@ -10,9 +10,6 @@
 📧 katyfrances@gmail.com 
 🔗 https://yourgithubusername.github.io/intro/  
 💼 linkedin.com/in/katyfrancesa
-👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)  
-🔘 [Follow Me on GitHub](https://github.com/katyfrancesa)
-
 
 <!---
 KatyFrancesA/KatyFrancesA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
