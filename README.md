@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @KatyFrancesA
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Header](./your-header-image-name.png)
+
+# 👋 Hi, I'm Katy!
+
+💻 Aspiring Security Analyst | Passionate About Privacy  
+📚 Currently Learning: Python, Networking, Pentesting  
+🌐 Exploring: Threat Modeling, Packet Analysis, Vulnerability Scanning
+
+
+📧 katyfrances@gmail.com 
+🔗 https://yourgithubusername.github.io/intro/  
+💼 linkedin.com/in/katyfrancesa
+👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)  
+🔘 [Follow Me on GitHub](https://github.com/katyfrancesa)
+
 
 <!---
 KatyFrancesA/KatyFrancesA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
