@@ -1,3 +1,11 @@
+📧 katyfrances@gmail.com   
+💼 linkedin.com/in/katyfrancesa  
+🔗 https://yourgithubusername.github.io/intro/  
+
+**Achievements**  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/katyfa.png) 
+
+
 ![Header](githubBanner1.png)
 
                         💻 Passionate about security and privacy                                  
