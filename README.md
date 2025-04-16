@@ -1,8 +1,7 @@
-📬 **Reach Me**:
-- ✉️ [katyfrances@gmail.com](mailto:katyfrances@gmail.com)  
-- 🔗 [About Me Webpage](https://katyfrancesa.github.io/intro/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/katyfrancesa/)
-- 👉 [Follow Me](https://github.com/katyfrancesa)
+✉️ [katyfrances@gmail.com](mailto:katyfrances@gmail.com)  
+🔗 [About Me Webpage](https://katyfrancesa.github.io/intro/)  
+💼 [LinkedIn](https://www.linkedin.com/in/katyfrancesa/)  
+👉 [Follow Me](https://github.com/katyfrancesa)
  
 ![GitHub followers](https://img.shields.io/github/followers/katyfrancesa?label=Follow&style=social)  
 <hr />
