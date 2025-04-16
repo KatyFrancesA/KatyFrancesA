@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](bannerGithub.png)
 
 # 👋 Hi, I'm Katy!
 
