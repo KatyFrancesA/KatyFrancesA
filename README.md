@@ -15,11 +15,15 @@
 
 <br /> 
 
-<p align="center">💻 Privacy Advocate | Creative Wanderer<br>     
-🔍 Learning: Python • Networking • Pentesting<br>  
-🛠️ Tools: Nmap • Wireshark • Metasploit • Bash<br>  
-🧠 Passionate about: digital privacy, ethical hacking & problem-solving<br>     
-🌐 Exploring: Threat Modeling, Packet Analysis, Vulnerability Scanning  </p> 
+<p align="center">
+💻 Privacy Advocate | Creative Wanderer<br>
+🔍 Learning: Python • Networking • Active Directory<br>
+🛠️ Tools: Bash • PowerShell • Virtualisation Tools • Wireshark<br>
+🔧 Practicing: User Management • DNS/DHCP • System Hardening<br>
+🌐 Exploring: Cybersecurity Fundamentals • Threat Detection • Vulnerability Scanning<br>
+🧠 Passionate About: Digital Privacy • Ethical Hacking • Protecting Systems
+</p>
+
 
 <!---
 KatyFrancesA/KatyFrancesA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
