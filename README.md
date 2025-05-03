@@ -25,7 +25,9 @@
 <h4 align="center">Achievements & Certifications</h4>
 
 <p align="center">
-<img src="Assets/images/mtaLogo.png" alt="MTA 98-361 Cert" width="130"/> <img src="Assets/images/pcapLogo.png" alt="PCAP Cert" width="130"/> <img src="Assets/images/sc900.png" alt="SC900 Cert" width="130"/>
+<img src="Assets/images/mtaLogo.png" alt="MTA 98-361 Cert" width="100"/> 
+  <img src="Assets/images/pcapLogo.png" alt="PCAP Cert" width="100"/>
+  <img src="Assets/images/sc900.png" alt="SC900 Cert" width="100"/>
 </p>
 
 <br /> 
