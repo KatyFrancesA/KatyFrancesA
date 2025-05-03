@@ -1,7 +1,7 @@
 ![Header](Assets/images/githubBanner.png)
 <!-- Current Focus / Learning -->
 <p align="center">
-  🔍 <strong>Learning:</strong> Python • Networking (TCP/IP, DNS/DHCP) • Active Directory • Cybersecurity Fundamentals • Threat Detection • Vulnerability Scanning<br>
+  🔍 <strong>Learning:</strong> Python • Networking • Active Directory • Cybersecurity Fundamentals • Threat Detection • Vulnerability Scanning<br>
   🛠️ <strong>Tools & Technologies:</strong> Bash • PowerShell • Linux • Windows • VirtualBox • Wireshark<br>
   🔧 <strong>Practicing:</strong> User Management • System Hardening • Troubleshooting • Network Configuration
 </p>
