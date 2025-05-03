@@ -24,8 +24,8 @@
 --- 
 
 <h4 align="center">Achievements & Certifications</h4>
-<img src="assets/images/mtalogo.png" alt="MTA 98-361 Logo" width="120"/>
-<img src="assets/images/pcaplogo.png" alt="PCAP Logo" width="120"/>  
+<img src="assets/images/mtaLogo.png" alt="MTA 98-361 Logo" width="120"/>
+<img src="assets/images/pcapLogo.png" alt="PCAP Logo" width="120"/>  
 <img src="assets/images/sc900.png" alt="PCAP Logo" width="120"/>  
 
 <br /> 
