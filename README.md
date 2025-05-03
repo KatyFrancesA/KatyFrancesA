@@ -1,5 +1,4 @@
-![Header](assets/images/githubBanner.png)
-
+![Header](Assets/images/githubBanner.png)
 <!-- Current Focus / Learning -->
 <p align="center">
   🔍 <strong>Learning:</strong> Python • Networking (TCP/IP, DNS/DHCP) • Active Directory • Cybersecurity Fundamentals • Threat Detection • Vulnerability Scanning<br>
@@ -24,14 +23,18 @@
 --- 
 
 <h4 align="center">Achievements & Certifications</h4>
-<img src="assets/images/mtaLogo.png" alt="MTA 98-361 Logo" width="120"/>
-<img src="assets/images/pcapLogo.png" alt="PCAP Logo" width="120"/>  
-<img src="assets/images/sc900.png" alt="PCAP Logo" width="120"/>  
+
+<p align="center">
+<img src="Assets/images/mtaLogo.png" alt="MTA 98-361 Cert" width="130"/> <img src="Assets/images/pcapLogo.png" alt="PCAP Cert" width="130"/> <img src="Assets/images/sc900.png" alt="SC900 Cert" width="130"/>
+</p>
 
 <br /> 
-<br />
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/katyfa.png) 
+<div align="center">
+  <a href="https://tryhackme.com/p/katyfa"> <!-- Keep the link -->
+    <img src="https://tryhackme-badges.s3.amazonaws.com/katyfa.png" alt="TryHackMe Badge"/>
+  </a>
+</div>
 
 ---
 <br />
