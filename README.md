@@ -8,26 +8,26 @@
 
 ---
 
-<h4 align="center">Core Tech Stack</h4>
+<h3 align="center">Core Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="28"/> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="28"/> 
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="28"/> 
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" height="28"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> 
-  <img src="https://img.shields.io/badge/VirtualBox-2D6E9C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="30"/> 
-  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge" alt="Networking" height="30"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/> 
+  <img src="https://img.shields.io/badge/VirtualBox-2D6E9C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="28"/> 
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge" alt="Networking" height="28"/> 
   <!-- Add any others here -->
 </p>
 
 --- 
 
-<h4 align="center">Achievements & Certifications</h4>
+<h3 align="center">Achievements & Certifications</h3>
 
 <p align="center">
-<img src="Assets/images/mtaLogo.png" alt="MTA 98-361 Cert" width="100"/> 
-  <img src="Assets/images/pcapLogo.png" alt="PCAP Cert" width="100"/>
-  <img src="Assets/images/sc900.png" alt="SC900 Cert" width="100"/>
+<img src="Assets/images/mtaLogo.png" alt="MTA 98-361 Cert" width="120"/> 
+  <img src="Assets/images/pcapLogo.png" alt="PCAP Cert" width="120"/>
+  <img src="Assets/images/sc900.png" alt="SC900 Cert" width="120"/>
 </p>
 
 <br /> 
