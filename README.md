@@ -59,6 +59,46 @@
 
 ---- -->
 
+<details>
+  <summary><strong>📃 CV</strong></summary>
+
+  <h2>Education</h2>
+
+  *   **Level 4 Software Development and Testing** - _Distinction_ <br>
+      📆 Jan - Mar 2025  
+      📍 Gateshead College
+
+*   **Software Development Fundementals Bootcamp**<br>
+      📆 Oct - Feb 2022  
+      📍 Firebrand
+      
+ <h2>Certifications</h2>
+   
+  *   **Microsoft Technology Associate: Software Development Fundamentals (MTA 98-361)** <br>
+      📆 Feb 2022  
+      
+  *   **PCAP – Certified Associate in Python Programming**<br>
+      📆 Feb 2022  
+      
+  *   **Microsoft Security, Compliance and Identity Fundamentals (SC-900)**  
+      📆 Apr 2025  
+      
+  <h2>💼 Work Experience</h2>
+
+  *   **Customer Service Advisor**<br>
+      📆 Sep 2022 – Present  
+      📍 G4S  
+      *Key Responsibilities:* Resolved complex customer inquiries efficiently; Maintained compliance with data security procedures; Collaborated with team members.
+
+  *   **Customer Service Specialist**<br>
+      📆 Feb 2020 – Jan 2022  
+      📍 Student Loans Company  
+      *Key Responsibilities:* Investigated and resolved complex account issues; Ensured strict compliance with data handling (GDPR); Communicated technical information clearly.
+      
+</details>
+
+---
+
 <h4 align="center">Reach Me</h4>  
 <p align="center">
   <a href="mailto:@tutamail.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="Tutanota"></a>
