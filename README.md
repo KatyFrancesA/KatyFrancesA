@@ -74,19 +74,19 @@
       
  <h2>Certifications</h2>
    
+  *   **Microsoft Security, Compliance and Identity Fundamentals (SC-900)**  
+      📆 Apr 2025  
+
   *   **Microsoft Technology Associate: Software Development Fundamentals (MTA 98-361)** <br>
       📆 Feb 2022  
       
   *   **PCAP – Certified Associate in Python Programming**<br>
       📆 Feb 2022  
       
-  *   **Microsoft Security, Compliance and Identity Fundamentals (SC-900)**  
-      📆 Apr 2025  
-      
   <h2>💼 Work Experience</h2>
 
   *   **Customer Service Advisor**<br>
-      📆 Sep 2022 – Present  
+      📆 Sep 2022 – May 2025  
       📍 G4S  
       *Key Responsibilities:* Resolved complex customer inquiries efficiently; Maintained compliance with data security procedures; Collaborated with team members.
 
