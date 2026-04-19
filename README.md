@@ -1,4 +1,4 @@
-![Header](Assets/images/githubBanner4.png)
+![Header](Assets/images/githubBanner6.png)
 <p align="center">
   🔍 <strong>Focus:</strong> Software Quality Assurance • Defect Lifecycle Management • Accessibility (WCAG) Auditing • Business Logic Validation<br>
   🛠️ <strong>Tools & Technologies:</strong> Chrome DevTools • Postman (API) • SQL • Java • JUnit • Jira<br>
